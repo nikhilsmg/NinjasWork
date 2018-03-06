@@ -1,0 +1,47 @@
+.topheading {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 28px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align:center;
+}
+.subheading {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-align:center;
+}
+.questionheading {
+	font-family: "Trebuchet MS";
+	font-size: 18px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-align:left;
+	padding-left: 20px;
+}
+.descriptions {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF9900;
+}
+.maintext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #666666;
+}
+.thankstext {
+	font-family: "Trebuchet MS";
+	font-size: 22px;
+	font-weight: bold;
+	color:#006699;
+	text-align:center;
+}
+.normaltext {
+	font-family: "Trebuchet MS";
+	font-size: 14px;
+	font-weight: bold;
+	color:#000000;
+}
